@@ -45,7 +45,7 @@ Build & train supervised machine learning models for prediction & binary classif
 ## Jump to Deep Learning
 
 ### Start learning Deep Neural Networks
-Introduction to Neural Networks and Deep Learning. (All programming assignments and quizes of courses are in this repository)
+Introduction to Neural Networks and Deep Learning. (All programming assignments and quizes of courses are [here](https://github.com/amanchadha/coursera-deep-learning-specialization))
 
 [link to course](https://www.coursera.org/learn/neural-networks-deep-learning)
 
