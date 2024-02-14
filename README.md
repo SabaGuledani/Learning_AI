@@ -28,6 +28,7 @@ Optional if you already know calculus, but recommended if you have difficulty un
 
 ## Machine Learning Specialization 
 (I should have started with these courses but started with other ones, but you better start with these ones.)
+[Link to assignments of these courses](https://github.com/dibgerge/ml-coursera-python-assignments) 
 
 **3 courses to start**
 ### Supervised Machine Learning: Regression and Classification
@@ -44,7 +45,7 @@ Build & train supervised machine learning models for prediction & binary classif
 ## Jump to Deep Learning
 
 ### Start learning Deep Neural Networks
-Introduction to Neural Networks and Deep Learning. (All of programming assignments and quizes in courses are in this repository)
+Introduction to Neural Networks and Deep Learning. (All programming assignments and quizes of courses are in this repository)
 
 [link to course](https://www.coursera.org/learn/neural-networks-deep-learning)
 
