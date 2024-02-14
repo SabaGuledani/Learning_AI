@@ -6,6 +6,7 @@ Learn basics of Data Science with python Pandas library
 
 ## Keith Galli Crash course 
 [Keith Galli Channel](https://www.youtube.com/@KeithGalli/videos)
+
 learn basics of Pandas in one hour [link to video](https://www.youtube.com/watch?v=vmEHCJofslg&t=1s)
 
 ## training on real world problem example Pandas
