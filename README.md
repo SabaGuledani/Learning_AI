@@ -13,11 +13,15 @@ learn basics of Pandas in one hour. [link to video](https://www.youtube.com/watc
 Deepen knowledge and train on example of Data Science real world problem task with Keith.
 [link to video](https://youtu.be/eMOA1pPVUc4?si=znXn1Wj0XJTnTpnb)
 
+## NumPy 
+learn basics of NumPy with Keith Galli's [NumPy Crash Course](https://youtu.be/GB9ByFAIAH4?si=JgOXobbQULbv3WlG).
+Main points are: understanding NumPy Arrays, how to access certain elements, how to initialize different types and understanding shapes and reshaping.
+All of those are necessary for preprocessing the data to feed the NN model.
 
 ## Andrew Ng AI courses(Coursera)
 
 ### Learning Calculus for ML
-Optional if you already know calculus but recomended if you have difficulty understanding next course.
+Optional if you already know calculus but recommended if you have difficulty understanding next course.
 
 [link to course](https://www.coursera.org/learn/machine-learning-calculus)
 
