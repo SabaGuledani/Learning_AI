@@ -18,14 +18,32 @@ learn basics of NumPy with Keith Galli's [NumPy Crash Course](https://youtu.be/G
 Main points are: understanding NumPy Arrays, how to access certain elements, how to initialize different types and understanding shapes and reshaping.
 All of those are necessary for preprocessing the data to feed the NN model.
 
-## Andrew Ng AI courses(Coursera)
+# Andrew Ng ML and AI courses(Coursera)
 
-### Learning Calculus for ML
-Optional if you already know calculus but recommended if you have difficulty understanding next course.
+## Learning Calculus for ML
+Optional if you already know calculus, but recommended if you have difficulty understanding next course.
 
 [link to course](https://www.coursera.org/learn/machine-learning-calculus)
 
-### Start learning Neural Networks
+
+## Machine Learning Specialization 
+(I should have started with these courses but started with other ones, but you better start with these ones.)
+
+**3 courses to start**
+### Supervised Machine Learning: Regression and Classification
+Build & train supervised machine learning models for prediction & binary classification tasks, including linear regression & logistic regression.
+
+[course](https://www.coursera.org/learn/machine-learning)
+
+### Advanced Learning Algorithms
+[link](https://www.coursera.org/learn/advanced-learning-algorithms?specialization=machine-learning-introduction)
+
+### Unsupervised Learning, Recommenders, Reinforcement Learning
+[link](https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning?specialization=machine-learning-introduction)
+
+## Jump to Deep Learning
+
+### Start learning Deep Neural Networks
 Introduction to Neural Networks and Deep Learning. (All of programming assignments and quizes in courses are in this repository)
 
 [link to course](https://www.coursera.org/learn/neural-networks-deep-learning)
@@ -40,4 +58,9 @@ Learn how to optimize working schedule and get knowledge of possible solutions o
 
 [link to course](https://www.coursera.org/learn/machine-learning-projects/)
 
+
+# Plans 
+
+## Andrej Kaparthy's playlist of NN
+[link to playlist](https://youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&si=ZGIGRLqeUvODXMlF)
 
