@@ -59,6 +59,16 @@ Learn how to optimize working schedule and get knowledge of possible solutions o
 
 [link to course](https://www.coursera.org/learn/machine-learning-projects/)
 
+### Convolutional Neural Networks
+Learn Computer Vision
+
+[link to course](https://www.coursera.org/learn/convolutional-neural-networks)
+
+Also may be interesting to read:
+2012 imagenet competition winning entry, which is then discussed in next paper: [ImageNet Classification with Deep Convolutional Neural Networks](https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)
+
+Understand what conv layers see: 
+[Visualizing and Understanding Convolutional Networks](https://cs.nyu.edu/~fergus/papers/zeilerECCV2014.pdf)
 
 # Plans 
 
